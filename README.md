@@ -1,7 +1,7 @@
 # go_router_sample
 Demo:
 
-https://github.com/dangngocduc/go_router_demo/blob/master/demo/demo_video.mov
+https://github.com/dangngocduc/go_router_demo/blob/master/demo/demo_video.mov?raw=true
 
 Router Config: 
 ```dart
